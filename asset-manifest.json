@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/SmartEssayAnalyzer/static/css/main.4b919e8d.css",
+    "main.js": "/SmartEssayAnalyzer/static/js/main.af45a9a0.js",
+    "static/js/787.9ae78947.chunk.js": "/SmartEssayAnalyzer/static/js/787.9ae78947.chunk.js",
+    "static/media/loader.gif": "/SmartEssayAnalyzer/static/media/loader.a1a996746e5e48352c81.gif",
+    "static/media/gmail.svg": "/SmartEssayAnalyzer/static/media/gmail.bccb34815dafa7bca0399b021f994e46.svg",
+    "static/media/github.svg": "/SmartEssayAnalyzer/static/media/github.e2eaa700096139913a59cae9c01ab3d4.svg",
+    "index.html": "/SmartEssayAnalyzer/index.html",
+    "main.4b919e8d.css.map": "/SmartEssayAnalyzer/static/css/main.4b919e8d.css.map",
+    "main.af45a9a0.js.map": "/SmartEssayAnalyzer/static/js/main.af45a9a0.js.map",
+    "787.9ae78947.chunk.js.map": "/SmartEssayAnalyzer/static/js/787.9ae78947.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b919e8d.css",
+    "static/js/main.af45a9a0.js"
+  ]
+}
